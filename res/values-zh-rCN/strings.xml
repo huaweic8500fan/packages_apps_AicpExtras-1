@@ -230,7 +230,7 @@
   <!-- Statusbar ticker -->
   <!-- Navigation-->
   <string name="navigation_title">导航栏</string>
-  <string name="navigation_summary">原生 / 智能导航栏 / 扫动 / 手势</string>
+  <string name="navigation_summary">原生/智能导航栏/扫动/手势</string>
   <!-- Navigation bar -->
   <!-- DUI -->
   <string name="icon_pack_picker_dialog_title">图标包</string>
@@ -265,7 +265,7 @@
   <!-- Lock screen visualizer -->
   <!-- Screen state service -->
   <!-- Ambient Music Ticker -->
-  <!-- Screen Off animation -->
+  <!-- Screen Off animation -->屏幕关闭动画</string>
   <!-- Suppress notification sound/vibration -->
   <!-- Accidental Touch -->
   <!-- Dynamic Navbar -->
